@@ -1,10 +1,10 @@
 Hi 👋 My name is Boru Tamena
 ============================
 
-Data Scientist and Frontend Developer
+Data Scientist and FullStack Web Developer
 -------------------------------------
 
-I'm a passionate Data Scientist and Front-End Developer, dedicated to bridging the gap between data-driven insights and exceptional user experiences.
+I'm a passionate Data Scientist and FullStack-Web Developer, dedicated to bridging the gap between data-driven insights and exceptional user experiences.
 
 * 🌍  I'm based in Ethiopia
 * ✉️  You can contact me at [borutamane46@gmail.com](mailto:borutamane46@gmail.com)
