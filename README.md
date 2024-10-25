@@ -1,5 +1,5 @@
 
-<h1 align="left>Hi 👋, I'm Boru Tamene Yadeta</h1>
+<h1 align="left" weight="bold">Hi 👋, I'm Boru Tamene Yadeta</h1>
 <h3 align="left">A passionate Full Stack developer from Ethiopia</h3>
 
 <p></p>
