@@ -1,10 +1,12 @@
 
-<h1 align="center">Hi 👋, I'm Boru Tamene Yadeta</h1>
-<h3 align="center">A passionate Full Stack developer from Ethiopia</h3>
+<h1 align="left>Hi 👋, I'm Boru Tamene Yadeta</h1>
+<h3 align="left">A passionate Full Stack developer from Ethiopia</h3>
+
+<p></p>
 
 - 🔭 I’m currently working on **Job Board Using Go**
 
-- 👯 I’m looking to collaborate on **Eccomerce**
+- 👯 I’m looking to collaborate on **Ecomerce**
 
 - 💬 Ask me about **React,Next,Go,Node**
 
