@@ -1,10 +1,10 @@
 
 <h1 align="left" weight="bold">Hi 👋, I'm Boru Tamene Yadeta</h1>
-<h3 align="left">A passionate Full Stack developer from Ethiopia</h3>
+<h3 align="left"> A Dedicated Computer Engineer from Ethiopia</h3>
 
 <p></p>
 
-- 🔭 I’m currently working on **Job Board Using Go**
+- 🔭 I’m currently working on **Enterprise level Go Projects**
 
 - 👯 I’m looking to collaborate on **Ecomerce**
 
