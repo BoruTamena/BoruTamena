@@ -6,11 +6,11 @@
 
 - 🔭 I’m currently working on **Enterprise level Go Projects**
 
-- 👯 I’m looking to collaborate on **Ecomerce**
+- 👯 I’m looking to collaborate on **Eccomerce**
 
-- 💬 Ask me about **React,Next,Go,Node**
+- 💬 Ask me about **React,Next,Golang**
 
-- 📫 How to reach me **borutamena@gmail.com**
+- 📫 How to reach me **borutamena46@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
